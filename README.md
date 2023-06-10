@@ -26,7 +26,6 @@ client
 ![image](https://github.com/samiamajdi/GestionStock-.NET/assets/85033376/3df9b5e4-7c0b-48c9-aae0-c6e7a8756330)
 
 ![image](https://github.com/samiamajdi/GestionStock-.NET/assets/85033376/e52bbcd8-db16-40a9-8de3-de5a8ae99385)
-![image](https://github.com/samiamajdi/GestionStock-.NET/assets/85033376/b13e5ff2-cd21-4fe2-966a-47493fb413be)
 
 
 
